@@ -1,0 +1,2 @@
+module JavaPracticeSummer2019 {
+}
